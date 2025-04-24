@@ -46,7 +46,7 @@ nums.forEach((num, i) => {
     odds.push(num);
   }
 });
-// console.log('Exercise 11 result:', odds)
+ console.log('Exercise 11 result:', odds)
 
 const fizz = [];
 const buzz = [];
